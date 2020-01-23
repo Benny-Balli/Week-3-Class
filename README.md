@@ -4,7 +4,7 @@
 1054 Week 3 CLass Build
 
 ## Installation
-There is no installation prces for this repo. Simply pull down and start working!
+There is no installation process for this repo. Simply pull down and start working!
 
 ## MIT License
 
